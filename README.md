@@ -14,7 +14,8 @@ Comprendre comment Spring Security intègre le modèle stateless.
 Sécuriser les endpoints selon les rôles et droits.
 
 
-## tester chaque point
+## teste
+
 1. MySQL installé et démarré
  <img width="885" height="277" alt="Capture d’écran 2025-11-23 à 22 05 29" src="https://github.com/user-attachments/assets/f5bd0fb7-1ab8-47a3-ae61-56bb46ff6417" />
 2. Base de données créée
