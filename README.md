@@ -18,7 +18,8 @@ Sécuriser les endpoints selon les rôles et droits.
 1. MySQL installé et démarré
  <img width="885" height="277" alt="Capture d’écran 2025-11-23 à 22 05 29" src="https://github.com/user-attachments/assets/f5bd0fb7-1ab8-47a3-ae61-56bb46ff6417" />
 2. Base de données créée
-<img width="921" height="255" alt="Capture d’écran 2025-11-23 à 22 06 08" src="https://github.com/user-attachments/assets/625cad87-b4f2-4532-9e82-3dbe7b1ab864" />
+![WhatsApp Image 2025-11-23 at 10 40 10 PM](https://github.com/user-attachments/assets/813dc800-918d-4d06-a85a-9677fddf2277)
+
 
 3. Application Spring Boot compilée
    <img width="921" height="90" alt="Capture d’écran 2025-11-23 à 22 08 08" src="https://github.com/user-attachments/assets/9187c6ec-7d4d-46fc-b327-a5f391203f5d" />
