@@ -1,0 +1,11 @@
+/Users/mac/Desktop/ S3/MLIAEdu/Développement JakartaEE  Spring/TP 11  API REST sécurisée avec JWT/src/main/java/ma/ens/security/config/SecurityConfig.java
+/Users/mac/Desktop/ S3/MLIAEdu/Développement JakartaEE  Spring/TP 11  API REST sécurisée avec JWT/src/main/java/ma/ens/security/repositories/RoleRepository.java
+/Users/mac/Desktop/ S3/MLIAEdu/Développement JakartaEE  Spring/TP 11  API REST sécurisée avec JWT/src/main/java/ma/ens/security/entities/Role.java
+/Users/mac/Desktop/ S3/MLIAEdu/Développement JakartaEE  Spring/TP 11  API REST sécurisée avec JWT/src/main/java/ma/ens/security/jwt/JwtAuthorizationFilter.java
+/Users/mac/Desktop/ S3/MLIAEdu/Développement JakartaEE  Spring/TP 11  API REST sécurisée avec JWT/src/main/java/ma/ens/security/SpringJwtApiApplication.java
+/Users/mac/Desktop/ S3/MLIAEdu/Développement JakartaEE  Spring/TP 11  API REST sécurisée avec JWT/src/main/java/ma/ens/security/web/AuthController.java
+/Users/mac/Desktop/ S3/MLIAEdu/Développement JakartaEE  Spring/TP 11  API REST sécurisée avec JWT/src/main/java/ma/ens/security/entities/User.java
+/Users/mac/Desktop/ S3/MLIAEdu/Développement JakartaEE  Spring/TP 11  API REST sécurisée avec JWT/src/main/java/ma/ens/security/repositories/UserRepository.java
+/Users/mac/Desktop/ S3/MLIAEdu/Développement JakartaEE  Spring/TP 11  API REST sécurisée avec JWT/src/main/java/ma/ens/security/jwt/JwtUtil.java
+/Users/mac/Desktop/ S3/MLIAEdu/Développement JakartaEE  Spring/TP 11  API REST sécurisée avec JWT/src/main/java/ma/ens/security/web/TestController.java
+/Users/mac/Desktop/ S3/MLIAEdu/Développement JakartaEE  Spring/TP 11  API REST sécurisée avec JWT/src/main/java/ma/ens/security/services/CustomUserDetailsService.java
